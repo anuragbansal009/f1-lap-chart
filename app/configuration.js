@@ -2,6 +2,6 @@
 
     angular
         .module('configuration', [])
-        .constant('DATA_DIR', 'http://localhost:8888/data');
+        .constant('DATA_DIR', 'https://anuragbansal009.github.io/f1-lap-chart/data/');
 
 })();
