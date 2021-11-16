@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Interactive lap chart visualization of Formula 1 races.
-The application is hosted [here](https://anuragbansal009.github.io/f1-lap-charts/#/).
+The application is hosted [here](https://anuragbansal009.github.io/f1-lap-chart/#/).
 
 This application uses [Angular JS](https://angularjs.org/) and gets the race results from the
 [Ergast web service](https://ergast.com/mrd/) using this [Ergast client for NodeJS](https://github.com/davidor/ergast-client-nodejs).
