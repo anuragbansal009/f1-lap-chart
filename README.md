@@ -31,4 +31,4 @@ If you are using a different host or port, change the `DATA_DIR` constant in `/f
 
 ### Screenshot
 
-![Screenshot](/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/anuragbansal009/f1-lap-charts/master/Screenshot.png)
