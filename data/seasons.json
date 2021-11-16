@@ -5,82 +5,82 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 3,
                 "name": "Argentine Grand Prix",
-                "flag": "..\\flags\\arg.svg"
+                "flag": "flags/arg.svg"
             },
             {
                 "round": 4,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 5,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 12,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Portuguese Grand Prix",
-                "flag": "..\\flags\\prt.svg"
+                "flag": "flags/prt.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             }
         ]
     },
@@ -90,87 +90,87 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 3,
                 "name": "Argentine Grand Prix",
-                "flag": "..\\flags\\arg.svg"
+                "flag": "flags/arg.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 6,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 15,
                 "name": "Luxembourg Grand Prix",
-                "flag": "..\\flags\\lux.svg"
+                "flag": "flags/lux.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 17,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             }
         ]
     },
@@ -180,82 +180,82 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 3,
                 "name": "Argentine Grand Prix",
-                "flag": "..\\flags\\arg.svg"
+                "flag": "flags/arg.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 11,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 12,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Luxembourg Grand Prix",
-                "flag": "..\\flags\\lux.svg"
+                "flag": "flags/lux.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             }
         ]
     },
@@ -265,82 +265,82 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 3,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 4,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 7,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 8,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 9,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 10,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 15,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             }
         ]
     },
@@ -350,87 +350,87 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 3,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 4,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 7,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 10,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 11,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 12,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 17,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             }
         ]
     },
@@ -440,87 +440,87 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 7,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 10,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 11,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 12,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 13,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 14,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 15,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 16,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 17,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             }
         ]
     },
@@ -530,87 +530,87 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 7,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 12,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 13,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 14,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 15,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 16,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 17,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             }
         ]
     },
@@ -620,82 +620,82 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 7,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 10,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 11,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 12,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 13,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             }
         ]
     },
@@ -705,92 +705,92 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 10,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 11,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 12,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 13,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 14,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 15,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 16,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 17,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 18,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     },
@@ -800,97 +800,97 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 10,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 11,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 12,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 13,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 14,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 15,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 16,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 17,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 18,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 19,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             }
         ]
     },
@@ -900,92 +900,92 @@
             {
                 "round": 1,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 4,
                 "name": "San Marino Grand Prix",
-                "flag": "..\\flags\\smr.svg"
+                "flag": "flags/smr.svg"
             },
             {
                 "round": 5,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 6,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 7,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 8,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 9,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 10,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 11,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 12,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 13,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 14,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 15,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 16,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 17,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 18,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     },
@@ -995,87 +995,87 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 4,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 5,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 6,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 7,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 8,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 15,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 16,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 17,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     },
@@ -1085,92 +1085,92 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 4,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 5,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 17,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 18,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     },
@@ -1180,87 +1180,87 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 8,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 9,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 10,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 11,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 15,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 16,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 17,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -1270,97 +1270,97 @@
             {
                 "round": 1,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 2,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 3,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 4,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 8,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 9,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 12,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 17,
                 "name": "Korean Grand Prix",
-                "flag": "..\\flags\\kor.svg"
+                "flag": "flags/kor.svg"
             },
             {
                 "round": 18,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 19,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -1370,97 +1370,97 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 15,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 16,
                 "name": "Korean Grand Prix",
-                "flag": "..\\flags\\kor.svg"
+                "flag": "flags/kor.svg"
             },
             {
                 "round": 17,
                 "name": "Indian Grand Prix",
-                "flag": "..\\flags\\ind.svg"
+                "flag": "flags/ind.svg"
             },
             {
                 "round": 18,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             },
             {
                 "round": 19,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     },
@@ -1470,102 +1470,102 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 15,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 16,
                 "name": "Korean Grand Prix",
-                "flag": "..\\flags\\kor.svg"
+                "flag": "flags/kor.svg"
             },
             {
                 "round": 17,
                 "name": "Indian Grand Prix",
-                "flag": "..\\flags\\ind.svg"
+                "flag": "flags/ind.svg"
             },
             {
                 "round": 18,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             },
             {
                 "round": 19,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 20,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     },
@@ -1575,97 +1575,97 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 9,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 10,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 11,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 12,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 13,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 14,
                 "name": "Korean Grand Prix",
-                "flag": "..\\flags\\kor.svg"
+                "flag": "flags/kor.svg"
             },
             {
                 "round": 15,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 16,
                 "name": "Indian Grand Prix",
-                "flag": "..\\flags\\ind.svg"
+                "flag": "flags/ind.svg"
             },
             {
                 "round": 17,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             },
             {
                 "round": 18,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 19,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     },
@@ -1675,97 +1675,97 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 4,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 15,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 16,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 17,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 18,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 19,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -1775,97 +1775,97 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 9,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 10,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 11,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 12,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 13,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 14,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 15,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 16,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 17,
                 "name": "Mexican Grand Prix",
-                "flag": "..\\flags\\mex.svg"
+                "flag": "flags/mex.svg"
             },
             {
                 "round": 18,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 19,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -1875,107 +1875,107 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "European Grand Prix",
-                "flag": "..\\flags\\eun.svg"
+                "flag": "flags/eun.svg"
             },
             {
                 "round": 9,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 16,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 17,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 18,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 19,
                 "name": "Mexican Grand Prix",
-                "flag": "..\\flags\\mex.svg"
+                "flag": "flags/mex.svg"
             },
             {
                 "round": 20,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 21,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -1985,102 +1985,102 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 3,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 4,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "Azerbaijan Grand Prix",
-                "flag": "..\\flags\\aze.svg"
+                "flag": "flags/aze.svg"
             },
             {
                 "round": 9,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 15,
                 "name": "Malaysian Grand Prix",
-                "flag": "..\\flags\\mys.svg"
+                "flag": "flags/mys.svg"
             },
             {
                 "round": 16,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 17,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 18,
                 "name": "Mexican Grand Prix",
-                "flag": "..\\flags\\mex.svg"
+                "flag": "flags/mex.svg"
             },
             {
                 "round": 19,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 20,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -2090,107 +2090,107 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Azerbaijan Grand Prix",
-                "flag": "..\\flags\\aze.svg"
+                "flag": "flags/aze.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 9,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 12,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 16,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 17,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 18,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 19,
                 "name": "Mexican Grand Prix",
-                "flag": "..\\flags\\mex.svg"
+                "flag": "flags/mex.svg"
             },
             {
                 "round": 20,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 21,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -2200,107 +2200,107 @@
             {
                 "round": 1,
                 "name": "Australian Grand Prix",
-                "flag": "..\\flags\\aus.svg"
+                "flag": "flags/aus.svg"
             },
             {
                 "round": 2,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 3,
                 "name": "Chinese Grand Prix",
-                "flag": "..\\flags\\chn.svg"
+                "flag": "flags/chn.svg"
             },
             {
                 "round": 4,
                 "name": "Azerbaijan Grand Prix",
-                "flag": "..\\flags\\aze.svg"
+                "flag": "flags/aze.svg"
             },
             {
                 "round": 5,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 6,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 7,
                 "name": "Canadian Grand Prix",
-                "flag": "..\\flags\\can.svg"
+                "flag": "flags/can.svg"
             },
             {
                 "round": 8,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 9,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "German Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 12,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 13,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Singapore Grand Prix",
-                "flag": "..\\flags\\sgp.svg"
+                "flag": "flags/sgp.svg"
             },
             {
                 "round": 16,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 17,
                 "name": "Japanese Grand Prix",
-                "flag": "..\\flags\\jpn.svg"
+                "flag": "flags/jpn.svg"
             },
             {
                 "round": 18,
                 "name": "Mexican Grand Prix",
-                "flag": "..\\flags\\mex.svg"
+                "flag": "flags/mex.svg"
             },
             {
                 "round": 19,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 20,
                 "name": "Brazilian Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             },
             {
                 "round": 21,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -2310,87 +2310,87 @@
             {
                 "round": 1,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 2,
                 "name": "Styrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 3,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 4,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 5,
                 "name": "70th Anniversary Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 6,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 7,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 8,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 9,
                 "name": "Tuscan Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 10,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 11,
                 "name": "Eifel Grand Prix",
-                "flag": "..\\flags\\deu.svg"
+                "flag": "flags/deu.svg"
             },
             {
                 "round": 12,
                 "name": "Portuguese Grand Prix",
-                "flag": "..\\flags\\prt.svg"
+                "flag": "flags/prt.svg"
             },
             {
                 "round": 13,
                 "name": "Emilia Romagna Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 14,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 15,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 16,
                 "name": "Sakhir Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 17,
                 "name": "Abu Dhabi Grand Prix",
-                "flag": "..\\flags\\are.svg"
+                "flag": "flags/are.svg"
             }
         ]
     },
@@ -2400,97 +2400,97 @@
             {
                 "round": 1,
                 "name": "Bahrain Grand Prix",
-                "flag": "..\\flags\\bhr.svg"
+                "flag": "flags/bhr.svg"
             },
             {
                 "round": 2,
                 "name": "Emilia Romagna Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 3,
                 "name": "Portuguese Grand Prix",
-                "flag": "..\\flags\\prt.svg"
+                "flag": "flags/prt.svg"
             },
             {
                 "round": 4,
                 "name": "Spanish Grand Prix",
-                "flag": "..\\flags\\esp.svg"
+                "flag": "flags/esp.svg"
             },
             {
                 "round": 5,
                 "name": "Monaco Grand Prix",
-                "flag": "..\\flags\\mco.svg"
+                "flag": "flags/mco.svg"
             },
             {
                 "round": 6,
                 "name": "Azerbaijan Grand Prix",
-                "flag": "..\\flags\\aze.svg"
+                "flag": "flags/aze.svg"
             },
             {
                 "round": 7,
                 "name": "French Grand Prix",
-                "flag": "..\\flags\\fra.svg"
+                "flag": "flags/fra.svg"
             },
             {
                 "round": 8,
                 "name": "Styrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 9,
                 "name": "Austrian Grand Prix",
-                "flag": "..\\flags\\aut.svg"
+                "flag": "flags/aut.svg"
             },
             {
                 "round": 10,
                 "name": "British Grand Prix",
-                "flag": "..\\flags\\gbr.svg"
+                "flag": "flags/gbr.svg"
             },
             {
                 "round": 11,
                 "name": "Hungarian Grand Prix",
-                "flag": "..\\flags\\hun.svg"
+                "flag": "flags/hun.svg"
             },
             {
                 "round": 12,
                 "name": "Belgian Grand Prix",
-                "flag": "..\\flags\\bel.svg"
+                "flag": "flags/bel.svg"
             },
             {
                 "round": 13,
                 "name": "Dutch Grand Prix",
-                "flag": "..\\flags\\nld.svg"
+                "flag": "flags/nld.svg"
             },
             {
                 "round": 14,
                 "name": "Italian Grand Prix",
-                "flag": "..\\flags\\ita.svg"
+                "flag": "flags/ita.svg"
             },
             {
                 "round": 15,
                 "name": "Russian Grand Prix",
-                "flag": "..\\flags\\rus.svg"
+                "flag": "flags/rus.svg"
             },
             {
                 "round": 16,
                 "name": "Turkish Grand Prix",
-                "flag": "..\\flags\\tur.svg"
+                "flag": "flags/tur.svg"
             },
             {
                 "round": 17,
                 "name": "United States Grand Prix",
-                "flag": "..\\flags\\usa.svg"
+                "flag": "flags/usa.svg"
             },
             {
                 "round": 18,
                 "name": "Mexico City Grand Prix",
-                "flag": "..\\flags\\mex.svg"
+                "flag": "flags/mex.svg"
             },
             {
                 "round": 19,
                 "name": "São Paulo Grand Prix",
-                "flag": "..\\flags\\bra.svg"
+                "flag": "flags/bra.svg"
             }
         ]
     }
