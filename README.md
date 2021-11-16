@@ -14,6 +14,8 @@ This application uses [Angular JS](https://angularjs.org/) and gets the race res
 
 The flags are used from [flag-icons](https://github.com/alexsobolenko/flag-icons/).
 
+The application is forked from [here](https://github.com/davidor/formula1-lap-charts).
+
 ### Download the races data
 
 * You need to have [Node.js](http://nodejs.org/) installed.
